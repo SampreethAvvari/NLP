@@ -7,7 +7,7 @@ from transformers import DataCollatorForTokenClassification
 from transformers import TrainingArguments, Trainer
 import evaluate
 import wandb
-wandb.login(key="19a6c0405fc04811550b523713c570a29af7e7d9")
+wandb.login(key="")
 
 # Initialize WandB logging
 wandb.init(project="Dravida Ulagam - Small", name='distillbertsmall-ner-oct31-run2-5epochs', config={
