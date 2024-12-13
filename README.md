@@ -99,7 +99,7 @@ The performance of different architectures on various tasks:
 
 ## WandB Reports 
 
-Sentence Similarity - https://api.wandb.ai/links/sampreethdhruv-new-york-university/45mp4ejo)]
+Sentence Similarity - https://api.wandb.ai/links/sampreethdhruv-new-york-university/45mp4ejo
 
 ---
 
