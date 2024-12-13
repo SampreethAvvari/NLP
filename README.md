@@ -97,6 +97,12 @@ The performance of different architectures on various tasks:
 
 ---
 
+## WandB Reports 
+
+Sentence Similarity - https://api.wandb.ai/links/sampreethdhruv-new-york-university/45mp4ejo)]
+
+---
+
 ## Acknowledgments  
 
 This project was conducted as part of **NYU's DS-GA-1011 course** under the supervision of the Center for Data Science.  
