@@ -14,7 +14,7 @@ import wandb
 
 
 # Log in to WandB
-wandb.login(key="19a6c0405fc04811550b523713c570a29af7e7d9")  # You'll be prompted to enter your API key or you can set it via environment variable
+wandb.login(key="")  # You'll be prompted to enter your API key or you can set it via environment variable
 
 # Initialize WandB logging
 wandb.init(project="Dravida Ulagam - Medium", name='mediumgpt2-ner-nov14-run1', config={
