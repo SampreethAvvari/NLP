@@ -1,6 +1,4 @@
-Here's a GitHub README file for your project, structured to explain the contents and purpose of the repository:
 
----
 
 # Transformer Model Comparisons for Non-Autoregressive NLP Tasks  
 
