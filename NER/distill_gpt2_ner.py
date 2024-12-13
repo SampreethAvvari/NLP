@@ -14,7 +14,7 @@ import wandb
 
 
 # Log in to WandB
-wandb.login(key="19a6c0405fc04811550b523713c570a29af7e7d9")  # You'll be prompted to enter your API key or you can set it via environment variable
+wandb.login(key="")  # You'll be prompted to enter your API key or you can set it via environment variable
 
 # Initialize WandB logging
 wandb.init(project="Dravida Ulagam - Small", name='distillgpt2-ner-nov1-run2_changed_lr_scheduler_10epochs', config={
