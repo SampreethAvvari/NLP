@@ -66,35 +66,6 @@ pip install torch transformers scikit-learn numpy pandas matplotlib
 
 ---
 
-## Running the Code  
-
-Each folder contains task-specific code. Follow these steps:  
-
-### 1. **Named Entity Recognition (NER)**  
-Navigate to the `NER/` folder and run:  
-```bash
-python ner_train.py --model_name roberta-base --dataset_path /path/to/ner_data
-```
-
-### 2. **Classification**  
-In the `Classification/` folder:  
-```bash
-python classification_train.py --model_name t5-base --dataset_path /path/to/classification_data
-```
-
-### 3. **Sentence Similarity**  
-For sentence similarity:  
-```bash
-python similarity_train.py --model_name deberta-xlarge --dataset_path /path/to/similarity_data
-```
-
-### 4. **Summarization**  
-In the `Summarisation/` folder:  
-```bash
-python summarisation_train.py --model_name gpt2-large --dataset_path /path/to/summarization_data
-```
-
----
 
 ## Results  
 
