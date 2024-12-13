@@ -11,7 +11,7 @@ import wandb
 
 # Define the checkpoint for tokenizer
 
-wandb.login(key="19a6c0405fc04811550b523713c570a29af7e7d9")
+wandb.login(key="")
 
 # Initialize WandB logging
 wandb.init(project="Dravida Ulagam - Large", name='deberata_xlarge_nov14_run1', config={
