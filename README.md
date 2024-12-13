@@ -23,21 +23,17 @@ The experiments analyze models of comparable size (Small, Medium, and Large) usi
 
 ```plaintext
 .
-├── NER/                    # Named Entity Recognition code and scripts
-│   ├── ner_train.py        # Training and evaluation script for NER
-│   └── ner_utils.py        # Utility functions for data preprocessing
+├── NER/code for all 3 models                  # Named Entity Recognition code and scripts
+
 │
-├── Classification/         # Text classification task code
-│   ├── classification_train.py
-│   └── classification_utils.py
+├── Classification/code for all 3 models       # Text classification task code
+
 │
-├── Sentence_Similarity/    # Sentence similarity code
-│   ├── similarity_train.py
-│   └── similarity_utils.py
+├── Sentence_Similarity/code for all 3 models   # Sentence similarity code
+
 │
-├── Summarisation/          # Summarization task code
-│   ├── summarisation_train.py
-│   └── summarisation_utils.py
+├── Summarisation/code for all 3 models          # Summarization task code
+
 │
 └── README.md               # Project description and instructions
 ```
